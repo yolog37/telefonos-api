@@ -1,24 +1,164 @@
 {
   "telefonos": [
-    { "id": "1", "marca": "Apple", "modelo": "iPhone 15 Pro" },
-    { "id": "2", "marca": "Samsung", "modelo": "Galaxy S24 Ultra" },
-    { "id": "3", "marca": "Google", "modelo": "Pixel 8 Pro" },
-    { "id": "4", "marca": "Xiaomi", "modelo": "Xiaomi 14 Ultra" },
-    { "id": "5", "marca": "OnePlus", "modelo": "OnePlus 12" },
-    { "id": "6", "marca": "Sony", "modelo": "Xperia 1 VI" },
-    { "id": "7", "marca": "Motorola", "modelo": "Edge 50 Ultra" },
-    { "id": "8", "marca": "Apple", "modelo": "iPhone 14" },
-    { "id": "9", "marca": "Samsung", "modelo": "Galaxy A55" },
-    { "id": "10", "marca": "Nothing", "modelo": "Phone (2)" },
-    { "id": "11", "marca": "Asus", "modelo": "ROG Phone 8 Pro" },
-    { "id": "12", "marca": "Huawei", "modelo": "Pura 70 Ultra" },
-    { "id": "13", "marca": "Oppo", "modelo": "Find X7 Ultra" },
-    { "id": "14", "marca": "Vivo", "modelo": "X100 Pro" },
-    { "id": "15", "marca": "Realme", "modelo": "GT 6" },
-    { "id": "16", "marca": "Honor", "modelo": "Magic6 Pro" },
-    { "id": "17", "marca": "Poco", "modelo": "F6 Pro" },
-    { "id": "18", "marca": "Apple", "modelo": "iPhone SE (2022)" },
-    { "id": "19", "marca": "Samsung", "modelo": "Galaxy Z Fold 6" },
-    { "id": "20", "marca": "Google", "modelo": "Pixel 8a" }
+    {
+      "id": "1",
+      "marca": "Apple",
+      "modelo": "iPhone 15 Pro",
+      "color": "Titanio natural",
+      "almacenamiento": "128 GB",
+      "procesador": "A17 Pro"
+    },
+    {
+      "id": "2",
+      "marca": "Samsung",
+      "modelo": "Galaxy S24 Ultra",
+      "color": "Gris titanio",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 3 for Galaxy"
+    },
+    {
+      "id": "3",
+      "marca": "Google",
+      "modelo": "Pixel 8 Pro",
+      "color": "Azul bahía",
+      "almacenamiento": "128 GB",
+      "procesador": "Google Tensor G3"
+    },
+    {
+      "id": "4",
+      "marca": "Xiaomi",
+      "modelo": "Xiaomi 14 Ultra",
+      "color": "Negro",
+      "almacenamiento": "512 GB",
+      "procesador": "Snapdragon 8 Gen 3"
+    },
+    {
+      "id": "5",
+      "marca": "OnePlus",
+      "modelo": "OnePlus 12",
+      "color": "Verde esmeralda",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 3"
+    },
+    {
+      "id": "6",
+      "marca": "Sony",
+      "modelo": "Xperia 1 VI",
+      "color": "Negro",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 3"
+    },
+    {
+      "id": "7",
+      "marca": "Motorola",
+      "modelo": "Edge 50 Ultra",
+      "color": "Madera nórdica",
+      "almacenamiento": "512 GB",
+      "procesador": "Snapdragon 8s Gen 3"
+    },
+    {
+      "id": "8",
+      "marca": "Apple",
+      "modelo": "iPhone 14",
+      "color": "Medianoche",
+      "almacenamiento": "128 GB",
+      "procesador": "A15 Bionic"
+    },
+    {
+      "id": "9",
+      "marca": "Samsung",
+      "modelo": "Galaxy A55",
+      "color": "Azul marino",
+      "almacenamiento": "256 GB",
+      "procesador": "Exynos 1480"
+    },
+    {
+      "id": "10",
+      "marca": "Nothing",
+      "modelo": "Phone (2)",
+      "color": "Gris oscuro",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8+ Gen 1"
+    },
+    {
+      "id": "11",
+      "marca": "Asus",
+      "modelo": "ROG Phone 8 Pro",
+      "color": "Negro fantasma",
+      "almacenamiento": "512 GB",
+      "procesador": "Snapdragon 8 Gen 3"
+    },
+    {
+      "id": "12",
+      "marca": "Huawei",
+      "modelo": "Pura 70 Ultra",
+      "color": "Negro",
+      "almacenamiento": "512 GB",
+      "procesador": "Kirin 9010"
+    },
+    {
+      "id": "13",
+      "marca": "Oppo",
+      "modelo": "Find X7 Ultra",
+      "color": "Azul océano",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 3"
+    },
+    {
+      "id": "14",
+      "marca": "Vivo",
+      "modelo": "X100 Pro",
+      "color": "Azul",
+      "almacenamiento": "512 GB",
+      "procesador": "MediaTek Dimensity 9300"
+    },
+    {
+      "id": "15",
+      "marca": "Realme",
+      "modelo": "GT 6",
+      "color": "Plateado",
+      "almacenamiento": "512 GB",
+      "procesador": "Snapdragon 8s Gen 3"
+    },
+    {
+      "id": "16",
+      "marca": "Honor",
+      "modelo": "Magic6 Pro",
+      "color": "Negro",
+      "almacenamiento": "512 GB",
+      "procesador": "Snapdragon 8 Gen 3"
+    },
+    {
+      "id": "17",
+      "marca": "Poco",
+      "modelo": "F6 Pro",
+      "color": "Negro",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 2"
+    },
+    {
+      "id": "18",
+      "marca": "Apple",
+      "modelo": "iPhone SE (2022)",
+      "color": "Medianoche",
+      "almacenamiento": "128 GB",
+      "procesador": "A15 Bionic"
+    },
+    {
+      "id": "19",
+      "marca": "Samsung",
+      "modelo": "Galaxy Z Fold 6",
+      "color": "Navy",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 3 for Galaxy"
+    },
+    {
+      "id": "20",
+      "marca": "Google",
+      "modelo": "Pixel 8a",
+      "color": "Obsidiana",
+      "almacenamiento": "128 GB",
+      "procesador": "Google Tensor G3"
+    }
   ]
 }
